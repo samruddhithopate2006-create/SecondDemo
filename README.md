@@ -1,1 +1,1 @@
-This is my secod local repo created just for practice
+This is my second local repo created just for practice
